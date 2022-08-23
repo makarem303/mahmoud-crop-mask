@@ -1,0 +1,10 @@
+version: 0.1.4
+project: mahmoud-crop-mask
+description: OpenMapFlow mahmoud crop mask
+gcloud:
+    project_id: rcmrd-workshop-test
+    location: us-central1
+    bucket_labeled_eo: mahmoud-crop-mask-labeled-eo
+    bucket_inference_eo: mahmoud-crop-mask-inference-eo
+    bucket_preds: mahmoud-crop-mask-preds
+    bucket_preds_merged: mahmoud-crop-mask-preds-merged
