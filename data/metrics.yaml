@@ -1,0 +1,9 @@
+mahmoud-model:
+  local_testing_original_size: 83
+  local_testing_positive_class_percentage: 0.4337
+  test_metrics:
+    accuracy: 0.7108
+    f1: 0.6471
+    precision: 0.6875
+    recall: 0.6111
+    roc_auc: 0.8032
