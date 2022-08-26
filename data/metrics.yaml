@@ -16,3 +16,12 @@ mahmoud-model-2:
     precision: 0.895
     recall: 0.9485
     roc_auc: 0.9422
+mahmoud-model-3:
+  local_testing_original_size: 905
+  local_testing_positive_class_percentage: 0.6652
+  test_metrics:
+    accuracy: 0.9083
+    f1: 0.932
+    precision: 0.9192
+    recall: 0.9452
+    roc_auc: 0.9591
